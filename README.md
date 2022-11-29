@@ -1,4 +1,5 @@
 # LaMOSNet
 
-Author: Fredrik Cumlin, Email: fredrikc@google.com
+Author: Fredrik Cumlin
+Email: fcumlin@gmail.com
 
