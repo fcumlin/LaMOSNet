@@ -7,9 +7,9 @@ This is the official implementation of the model LaMOSNet from the paper "LaMOSN
 
 ## Training
 
-To train, download the VCC2018 data and use the preprocessed csv files added in the data folder. 
+To train, download the VCC2018 data and use the preprocessed csv files added in the data folder. Then run the script ```train.py```.
 
 ## Acknowledgement
 
-This repository inherits from [unofficial MBNet implementation](https://github.com/sky1456723/Pytorch-MBNet).
+This repository inherits from the [unofficial MBNet implementation](https://github.com/sky1456723/Pytorch-MBNet).
 
