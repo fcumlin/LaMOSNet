@@ -226,16 +226,16 @@ def main():
     data_path = args.data_path
     id_table = args.id_table
     train_set = get_dataset(data_path,
-                            "../vcc2018_csv/training_data.csv",
+                            "training_data.csv",
                             vcc18=True,
                             idtable=os.path.join(id_table, 'idtable.pkl'))
     valid_set = get_dataset(data_path,
-                            "../vcc2018_csv/valid_data.csv",
+                            "valid_data.csv",
                             vcc18=True,
                             valid=True,
                             idtable=os.path.join(id_table, 'idtable.pkl'))
     test_set = get_dataset(data_path,
-                           "../vcc2018_csv/testing_data.csv",
+                           "testing_data.csv",
                            vcc18=True,
                            valid=True,
                            idtable=os.path.join(id_table, 'idtable.pkl'))
