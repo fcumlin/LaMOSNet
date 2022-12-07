@@ -11,5 +11,5 @@ To train, download the VCC2018 data and use the preprocessed csv files added in 
 
 ## Acknowledgement
 
-This repository inherits from this great unofficial MBNet implementation.
+This repository inherits from [unofficial MBNet implementation](https://github.com/sky1456723/Pytorch-MBNet).
 
