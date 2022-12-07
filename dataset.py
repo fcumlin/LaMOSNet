@@ -117,10 +117,7 @@ def get_dataset(data_path, split, load_all = False, vcc18 = False, idtable = '',
             else:
                 last += 1
                 wavs.append(last)
-                
-            # DELETE THIS IF YOU WANT THE WHOLE DATASET
-            if i == 10:
-               break
+
         return VCC18Dataset(wav_file=wavs, score_csv = dataframe, idtable = idtable, valid = valid)
     return VCC16Dataset(data_path)
 
