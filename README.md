@@ -3,7 +3,7 @@
 Author: Fredrik Cumlin
 Email: fcumlin@gmail.com
 
-This is the official implementation of the model LaMOSNet from the paper "LaMOSNet: Latent Mean-Opinion-Score Network for Non-intrusive Speech Quality Assessment". LaMOSNet is a non-intrusive speech quality metric that given an input signal, predicts the overall quality.
+This is the official implementation of the model LaMOSNet from the paper "Latent-based Neural Net for Non-intrusive Speech Quality Assessment". LaMOSNet is a non-intrusive speech quality metric that given an input signal, predicts the overall quality.
 
 ## Training
 
